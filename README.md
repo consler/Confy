@@ -15,4 +15,4 @@ text = confyunpack(pacd, key);
 print(text);
 
 
-THE CODE IS WRITTEN IN LUA5.1
+THE CODE IS WRITTEN IN LUA5.3
